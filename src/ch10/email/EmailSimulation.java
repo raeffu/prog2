@@ -16,10 +16,6 @@ public class EmailSimulation {
     Scanner in = new Scanner(System.in);
     String input = "";
 
-//    User user = null;
-//    String receiver;
-//    String text;
-//    MailBox mailbox;
     User currentUser = null;
 
     boolean loggedIn = false;
@@ -31,26 +27,23 @@ public class EmailSimulation {
       input = in.nextLine();
 
       if ("I".equalsIgnoreCase(input)) {
-        System.out.println("User name:");
         
+        System.out.println("User name:");
         currentUser = system.createUser(in.nextLine());
         system.createMailBox(currentUser);
         
         loggedIn = true;
-        
         System.out.println("logged in as "+ currentUser.getUserName());
       }
       else if ("S".equalsIgnoreCase(input)) {
         if(loggedIn){
           System.out.println("Mail to:");
-          User receiver = new User(in.nextLine());
           
+          User receiver = system.createUser(in.nextLine());
           system.createMailBox(receiver);
           
           System.out.println("Enter text, blank line to end:");
           String message = in.nextLine();
-          
-          System.out.println(message);
           
           system.sendMessage(currentUser, receiver, message);
         }
@@ -60,7 +53,8 @@ public class EmailSimulation {
       }
       else if ("R".equalsIgnoreCase(input)) {
         if(loggedIn){
-          // read messages
+          MailBox myMail = system.findMailBox(currentUser);
+          myMail.printAllMessages();
         }
         else{
           System.out.println("Please log in first");
@@ -77,6 +71,7 @@ public class EmailSimulation {
       }
       else if ("Q".equalsIgnoreCase(input)) {
         running = false;
+        in.close();
       }
       else {
         System.out.println("Not valid input!");
