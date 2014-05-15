@@ -7,10 +7,11 @@ public class MyString implements Appendable{
   public MyString(String s){
     _s = s;
   }
-  
+
   @Override
-  public Appendable append(Appendable a) {
-    return null;
+  public <T extends Appendable> void append(Appendable a) {
+    // TODO Auto-generated method stub
+    
   }
 
 }

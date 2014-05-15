@@ -27,7 +27,6 @@ public class Tester {
 	
 		MyList<Integer> lc = la.append(lb);
 		
-		
 		System.out.println("Liste la");
 		la.printAll();
 		

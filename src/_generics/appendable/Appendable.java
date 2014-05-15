@@ -1,5 +1,7 @@
 package _generics.appendable;
 
 public interface Appendable {
-  <T> void append(Appendable a);
+  
+  <T extends Appendable> void append(Appendable a);
+
 }
