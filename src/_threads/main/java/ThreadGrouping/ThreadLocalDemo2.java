@@ -1,4 +1,4 @@
-package ThreadGrouping;
+package _threads.main.java.ThreadGrouping;
 
 public final class ThreadLocalDemo2 {
 	

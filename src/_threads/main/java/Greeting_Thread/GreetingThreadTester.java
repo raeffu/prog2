@@ -1,4 +1,4 @@
-package Greeting_Thread;
+package _threads.main.java.Greeting_Thread;
 
 /**
  * This program tests the greeting thread by running two threads in parallel.

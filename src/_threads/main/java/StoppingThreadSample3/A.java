@@ -1,4 +1,4 @@
-package StoppingThreadSample3;
+package _threads.main.java.StoppingThreadSample3;
 
 import java.util.Date;
 

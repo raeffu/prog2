@@ -1,4 +1,4 @@
-package BankAccount_Critical;
+package _threads.main.java.BankAccount_Critical;
 
 /**
  * A bank account has a balance that can be changed by deposits and withdrawals.

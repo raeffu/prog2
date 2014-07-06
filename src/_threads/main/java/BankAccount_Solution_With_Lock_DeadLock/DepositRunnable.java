@@ -1,4 +1,4 @@
-package BankAccount_Solution_With_Lock_DeadLock;
+package _threads.main.java.BankAccount_Solution_With_Lock_DeadLock;
 
 /**
  * A deposit runnable makes periodic deposits to a bank account.

@@ -1,4 +1,4 @@
-package BankAccount_Solution_With_Lock;
+package _threads.main.java.BankAccount_Solution_With_Lock;
 
 /**
  * This program runs four threads that deposit and withdraw money from the same

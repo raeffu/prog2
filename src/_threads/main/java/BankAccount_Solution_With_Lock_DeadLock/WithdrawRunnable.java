@@ -1,4 +1,4 @@
-package BankAccount_Solution_With_Lock_DeadLock;
+package _threads.main.java.BankAccount_Solution_With_Lock_DeadLock;
 
 /**
  * A withdraw runnable makes periodic withdrawals from a bank account.

@@ -1,4 +1,4 @@
-package CriticalRegion_Problem;
+package _threads.main.java.CriticalRegion_Problem;
 
 public final class StartIt {
 	

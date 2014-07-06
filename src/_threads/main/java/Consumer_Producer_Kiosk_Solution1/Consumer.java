@@ -1,4 +1,4 @@
-package Consumer_Producer_Kiosk_Solution1;
+package _threads.main.java.Consumer_Producer_Kiosk_Solution1;
 
 public final class Consumer extends Thread{
 	

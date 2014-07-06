@@ -1,4 +1,4 @@
-package Priority_Sample;
+package _threads.main.java.Priority_Sample;
 
 public final class Startup {
 	

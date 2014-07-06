@@ -1,4 +1,4 @@
-package ImplementingRunnableSample2;
+package _threads.main.java.ImplementingRunnableSample2;
 
 import java.util.Date;
 

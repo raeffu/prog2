@@ -1,4 +1,4 @@
-package ExtendingThreadSample;
+package _threads.main.java.ExtendingThreadSample;
 
 import java.util.Date;
 

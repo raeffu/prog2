@@ -1,4 +1,4 @@
-package BankAccount_Synchronized_Wait_Notify;
+package _threads.main.java.BankAccount_Synchronized_Wait_Notify;
 
 /**
  * This program uses three threads that transfer money between three accounts.

@@ -1,4 +1,4 @@
-package Trafficlight_ex;
+package _threads.main.java.Trafficlight_ex;
 
 class Trigger extends Thread{
 	

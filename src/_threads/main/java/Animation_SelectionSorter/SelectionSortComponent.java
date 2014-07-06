@@ -1,4 +1,4 @@
-package Animation_SelectionSorter;
+package _threads.main.java.Animation_SelectionSorter;
 
 import java.awt.Graphics;
 import java.awt.Graphics2D;

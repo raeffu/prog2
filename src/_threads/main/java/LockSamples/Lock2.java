@@ -1,4 +1,4 @@
-package LockSamples;
+package _threads.main.java.LockSamples;
 
 public final class Lock2 {
 

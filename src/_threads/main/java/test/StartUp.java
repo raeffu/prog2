@@ -1,4 +1,4 @@
-package _threads.test;
+package _threads.main.java.test;
 
 public class StartUp {
   public static void main(String[] args){

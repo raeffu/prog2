@@ -1,4 +1,4 @@
-package Animation_SelectionSorter;
+package _threads.main.java.Animation_SelectionSorter;
 
 import java.awt.BorderLayout;
 import javax.swing.JFrame;

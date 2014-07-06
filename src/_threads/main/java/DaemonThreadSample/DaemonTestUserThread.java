@@ -1,4 +1,4 @@
-package DaemonThreadSample;
+package _threads.main.java.DaemonThreadSample;
 
 public final class DaemonTestUserThread {
 	

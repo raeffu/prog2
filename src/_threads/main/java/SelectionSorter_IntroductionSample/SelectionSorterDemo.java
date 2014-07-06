@@ -1,4 +1,4 @@
-package SelectionSorter_IntroductionSample;
+package _threads.main.java.SelectionSorter_IntroductionSample;
 
 public final class SelectionSorterDemo {
 	

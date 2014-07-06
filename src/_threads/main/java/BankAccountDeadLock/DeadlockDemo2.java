@@ -1,4 +1,4 @@
-package BankAccountDeadLock;
+package _threads.main.java.BankAccountDeadLock;
 
 class ThreadSafeBankAccount {
 

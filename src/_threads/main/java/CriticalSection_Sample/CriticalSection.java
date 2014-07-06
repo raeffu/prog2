@@ -1,4 +1,4 @@
-package CriticalSection_Sample;
+package _threads.main.java.CriticalSection_Sample;
 
 import java.util.ArrayList;
 import java.util.List;

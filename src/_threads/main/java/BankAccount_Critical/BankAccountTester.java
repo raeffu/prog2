@@ -1,4 +1,4 @@
-package BankAccount_Critical;
+package _threads.main.java.BankAccount_Critical;
 
 public class BankAccountTester {
 	

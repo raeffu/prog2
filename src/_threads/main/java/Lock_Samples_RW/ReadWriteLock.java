@@ -1,4 +1,4 @@
-package Lock_Samples_RW;
+package _threads.main.java.Lock_Samples_RW;
 
 public final class ReadWriteLock {
 

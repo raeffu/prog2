@@ -1,4 +1,4 @@
-package BankAccount_Synchronized_Wait_Notify;
+package _threads.main.java.BankAccount_Synchronized_Wait_Notify;
 
 /**
  * A transfer thread repeatedly transfers money between three bank accounts.

@@ -1,4 +1,4 @@
-package BankAccount_Solution_With_Lock;
+package _threads.main.java.BankAccount_Solution_With_Lock;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

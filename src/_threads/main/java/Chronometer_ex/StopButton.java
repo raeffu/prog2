@@ -1,4 +1,4 @@
-package Chronometer_ex;
+package _threads.main.java.Chronometer_ex;
 
 import java.awt.event.*;
 

@@ -1,4 +1,4 @@
-package Greeting_Thread;
+package _threads.main.java.Greeting_Thread;
 
 import java.util.Date;
 

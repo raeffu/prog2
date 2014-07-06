@@ -1,4 +1,4 @@
-package fibo;
+package _threads.main.java.fibo;
 
 import java.util.concurrent.*;
 

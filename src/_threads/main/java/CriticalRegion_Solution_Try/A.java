@@ -1,4 +1,4 @@
-package CriticalRegion_Solution_Try;
+package _threads.main.java.CriticalRegion_Solution_Try;
 
 public final class A extends Thread{
 

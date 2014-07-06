@@ -1,4 +1,4 @@
-package Joining;
+package _threads.main.java.Joining;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;

@@ -1,4 +1,4 @@
-package Greeting_Runnable;
+package _threads.main.java.Greeting_Runnable;
 
 import java.util.Date;
 

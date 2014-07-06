@@ -1,4 +1,4 @@
-package StoppingThreadSample1;
+package _threads.main.java.StoppingThreadSample1;
 
 public final class StartUp {
 

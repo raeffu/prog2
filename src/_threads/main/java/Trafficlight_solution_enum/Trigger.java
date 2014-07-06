@@ -1,4 +1,4 @@
-package Trafficlight_solution_enum;
+package _threads.main.java.Trafficlight_solution_enum;
 
 public final class Trigger extends Thread{
 

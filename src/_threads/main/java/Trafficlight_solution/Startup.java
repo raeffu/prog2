@@ -1,4 +1,4 @@
-package Trafficlight_solution;
+package _threads.main.java.Trafficlight_solution;
 
 public class Startup{
 

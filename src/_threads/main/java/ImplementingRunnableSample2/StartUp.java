@@ -1,4 +1,4 @@
-package ImplementingRunnableSample2;
+package _threads.main.java.ImplementingRunnableSample2;
 
 public final class StartUp {
 

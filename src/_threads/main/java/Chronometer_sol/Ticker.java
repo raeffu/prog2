@@ -1,4 +1,4 @@
-package Chronometer_sol;
+package _threads.main.java.Chronometer_sol;
 
 public final class Ticker extends Thread {
 

@@ -1,4 +1,4 @@
-package AnimWithThreads;
+package _threads.main.java.AnimWithThreads;
 
 // An example for thread programming
 

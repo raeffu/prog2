@@ -1,4 +1,4 @@
-package BankAccount_Solution_With_Lock_DeadLock;
+package _threads.main.java.BankAccount_Solution_With_Lock_DeadLock;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

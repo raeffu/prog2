@@ -1,4 +1,4 @@
-package DeadLockSamples;
+package _threads.main.java.DeadLockSamples;
 
 public final class DeadLockTest {
 	

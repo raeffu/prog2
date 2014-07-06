@@ -1,4 +1,4 @@
-package AnimWithThreads;
+package _threads.main.java.AnimWithThreads;
 
 // Sample Animator This example requires the TimerThread class to run.  
 

@@ -1,4 +1,4 @@
-package Yield_Sample;
+package _threads.main.java.Yield_Sample;
 
 public class YieldSample implements Runnable {
 	

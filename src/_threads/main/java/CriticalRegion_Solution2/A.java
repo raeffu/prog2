@@ -1,4 +1,4 @@
-package CriticalRegion_Solution2;
+package _threads.main.java.CriticalRegion_Solution2;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

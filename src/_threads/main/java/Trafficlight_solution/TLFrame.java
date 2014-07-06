@@ -1,4 +1,4 @@
-package Trafficlight_solution;
+package _threads.main.java.Trafficlight_solution;
 
 import java.awt.*;
 import java.awt.event.*;

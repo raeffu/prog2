@@ -1,4 +1,4 @@
-package overallSample;
+package _threads.main.java.overallSample;
 
 import java.awt.Color;
 

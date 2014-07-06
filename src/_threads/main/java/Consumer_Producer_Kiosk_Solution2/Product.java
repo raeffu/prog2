@@ -1,4 +1,4 @@
-package Consumer_Producer_Kiosk_Solution2;
+package _threads.main.java.Consumer_Producer_Kiosk_Solution2;
 
 public final class Product {
 	
